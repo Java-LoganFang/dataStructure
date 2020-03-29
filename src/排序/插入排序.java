@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Date;
 
 /**
- * 80W条数据  1秒
+ * 8W条数据  1秒
  */
 public class 插入排序 {
     public static void main(String[] args) {
@@ -19,6 +19,9 @@ public class 插入排序 {
         String date1Str = simpleDateFormat.format(date);
         System.out.println("排序前的时间是"+date1Str);
 
+
+
+
         for (int i = 1;i<arry.length;i++){
             int insertValue = arry[i];
             int insertIndex = i - 1;
@@ -29,6 +32,10 @@ public class 插入排序 {
             arry[insertIndex+1]=insertValue;
         }
         System.out.println(Arrays.toString(arry));
+
+
+
+
 
         Date date1 = new Date();
         //SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");

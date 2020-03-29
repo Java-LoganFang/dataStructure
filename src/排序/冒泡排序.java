@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Date;
 
 /**
- * 80w数据  10秒
+ * 8w数据  10秒
  */
 public class 冒泡排序 {
     public static void main(String[] args) {
