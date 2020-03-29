@@ -4,6 +4,9 @@ import java.text.SimpleDateFormat;
 import java.util.Arrays;
 import java.util.Date;
 
+/**
+ * 80w数据  10秒
+ */
 public class 冒泡排序 {
     public static void main(String[] args) {
        //int arr[] = {3, 9, -1, 10, -2};
