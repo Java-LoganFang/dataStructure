@@ -1,4 +1,4 @@
-package 递归;
+package 教学.递归;
 
 public class 八皇后问题 {
     int max = 8;

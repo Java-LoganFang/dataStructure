@@ -1,4 +1,4 @@
-package 稀疏数组;
+package 教学.稀疏数组;
 
 import java.util.List;
 

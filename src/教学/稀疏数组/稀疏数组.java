@@ -1,4 +1,4 @@
-package 稀疏数组;
+package 教学.稀疏数组;
 
 public class 稀疏数组 {
     /**
@@ -47,7 +47,7 @@ public class 稀疏数组 {
 
 
 
-        System.out.println("稀疏数组");
+        System.out.println("教学/稀疏数组");
         for (int[] i :sparearrays ){
             for (int attems: i){
                 System.out.printf("%d  ",attems);

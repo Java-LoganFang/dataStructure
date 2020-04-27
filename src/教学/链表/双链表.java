@@ -1,4 +1,4 @@
-package 链表;
+package 教学.链表;
 
 
 public class 双链表 {

@@ -1,4 +1,4 @@
-package 哈希表;
+package 教学.哈希表;
 
 public class 手写哈希表 {
     public static  void main(String[] args) {
@@ -56,7 +56,7 @@ public class 手写哈希表 {
         }
     }
 
-    //链表
+    //教学.链表
     static class EmpLinkedList{
         private Emp head;
 

@@ -1,4 +1,4 @@
-package 堆栈;
+package 教学.堆栈;
 
 import java.util.ArrayList;
 import java.util.List;

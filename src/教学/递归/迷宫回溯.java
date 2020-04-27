@@ -1,4 +1,4 @@
-package 递归;
+package 教学.递归;
 
 public class 迷宫回溯 {
     public static void main(String[] args) {

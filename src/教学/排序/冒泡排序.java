@@ -1,4 +1,4 @@
-package 排序;
+package 教学.排序;
 
 import java.text.SimpleDateFormat;
 import java.util.Arrays;

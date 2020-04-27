@@ -1,4 +1,4 @@
-package 查找;
+package 教学.查找;
 
 public class 二分查找 {
     public static void main(String[] args) {
